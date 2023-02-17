@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "SecondApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/second",
+      "applicationUrl": "http://localhost:5020",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Key": "EnvironmentVariable"
+      }
+    }
+  }
+}
